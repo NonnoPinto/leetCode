@@ -36,6 +36,8 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟡 [49.Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
+🟢 [125.Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
 🟢 [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 🟢 [242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)
