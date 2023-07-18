@@ -34,6 +34,8 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟢 [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
+🟡 [36.Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+
 🟡 [49.Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 🟢 [125.Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
