@@ -40,6 +40,8 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟢 [125.Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
+🟡 [128.Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
 🟢 [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 🟢 [242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)
