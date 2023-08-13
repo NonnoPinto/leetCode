@@ -51,3 +51,5 @@ Here links to all problems I've solved. I'll try to keep it updated.
 🟢 [242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 🟡 [347.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+🟡 [424.Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
