@@ -24,6 +24,8 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟡 [6.ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
+🟡 [7.Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+
 🟢 [9.Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 🟡 [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
