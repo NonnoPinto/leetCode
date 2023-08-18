@@ -38,6 +38,8 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟡 [36.Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) 👨‍💻 [My solution](https://leetcode.com/problems/valid-sudoku/solutions/3782789/java-o-n-solution/)
 
+🔴 [42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
 🟡 [49.Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 🟢 [121.Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
