@@ -50,6 +50,8 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟡 [128.Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
+🟡 [155.Min Sack](https://leetcode.com/problems/min-stack/)
+
 🟡 [167.Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 🟢 [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
