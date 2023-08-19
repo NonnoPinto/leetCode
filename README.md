@@ -65,3 +65,5 @@ Here links to all problems I've solved. I'll try to keep it updated.
 🟡 [347.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 🟡 [424.Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+
+🟢 [704.Binary Search](https://leetcode.com/problems/binary-search/)
