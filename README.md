@@ -66,4 +66,6 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟡 [424.Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
+🟡 [567.Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
 🟢 [704.Binary Search](https://leetcode.com/problems/binary-search/)
