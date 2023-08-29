@@ -46,6 +46,8 @@ Here links to all problems I've solved. I'll try to keep it updated.
 
 🟡 [49.Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
+🔴 [76.Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
 🟢 [121.Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 🟢 [125.Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
